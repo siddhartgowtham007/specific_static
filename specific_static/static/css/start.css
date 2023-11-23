@@ -1,0 +1,13 @@
+body{
+
+    background-color:purple;
+    text-align: center;
+}
+img{
+
+    border: 2px solid palevioletred;
+    border-radius: 15px;
+}
+#me{
+    color:rgb(244, 161, 7);
+}
